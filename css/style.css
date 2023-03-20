@@ -52,6 +52,28 @@ p{
 
 
 
+/* footer */
+
+#footer{
+    background-color: grey;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.footer-div-father{
+    justify-content: space-between;
+    padding-top: 50px;
+    border-bottom: solid blue 2px;
+}
+
+.footer-button{
+    float: right;
+}
+
+
+
+
+
 /* Debug */
 
 img{
