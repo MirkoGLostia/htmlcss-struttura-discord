@@ -10,6 +10,13 @@
     display: flex;
 }
 
+.title{
+    margin-bottom: 20px;
+}
+
+p{
+    margin: 10px;
+}
 
 
 
@@ -26,6 +33,12 @@
     justify-content: space-between;
 }
 
+#section-header{
+    margin-top: 100px;
+    padding-bottom: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
 
 
 /* Debug */
