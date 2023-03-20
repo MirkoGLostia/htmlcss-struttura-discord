@@ -50,6 +50,28 @@ p{
     text-align: center;
 }
 
+.main-section{
+    flex-wrap: wrap;
+}
+
+.main-div{
+    padding: 100px 0px;
+}
+
+.even{
+    flex-direction: row-reverse;
+}
+
+.main-span{
+    text-align: left;
+    padding-left: 50px;
+}
+
+.even > .main-span{
+    padding-right: 50px;
+    padding-left: 0px;
+}
+
 
 
 /* footer */
