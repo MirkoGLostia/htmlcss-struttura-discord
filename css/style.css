@@ -41,10 +41,25 @@ p{
 }
 
 
+
+/* main */
+
+#main-rule{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+
 /* Debug */
 
 img{
     background-color: yellow;
+    height: 100px;
+    width: 100px;
+}
+
+.logo{
     height: 50px;
     width: 50px;
 }
