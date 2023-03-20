@@ -1,11 +1,53 @@
+/* general rules */
+
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+.flex{
+    display: flex;
+}
+
+
+
+
+/* header */
+
+#container-header{
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
+
+.nav{
+    align-items: center;
+    justify-content: space-between;
+}
 
 
 
 /* Debug */
 
+img{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+}
+
+a{
+    background-color: green;
+    font-size: 30px;
+}
+
+button{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
+
+#container-header{
+    background-color: blue;
+    min-height: 200px;
+}
