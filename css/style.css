@@ -65,12 +65,12 @@ p{
     flex-direction: row-reverse;
 }
 
-.main-span{
+.main-span-txt{
     text-align: left;
     padding-left: 50px;
 }
 
-.even > .main-span{
+.even > .main-span-txt{
     padding-right: 50px;
     padding-left: 0px;
 }
